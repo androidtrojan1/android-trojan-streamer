@@ -12,6 +12,7 @@ the neccessary buffer size and port that you should pass as argument.
 
 Example of usage: 
 java -jar streamer.jar bufsize port
+
 for instance (java - jar streamer.jar 8192 31337)
 
 IMPORTANT!!!
