@@ -15,7 +15,7 @@ java -jar streamer.jar bufsize port
 for instance (java - jar streamer.jar 8192 31337)
 
 IMPORTANT!!!
-Dont forget to sey up firewall rule or just completely disable it for a while (the UDP port will be used for listening)
+Dont forget to set up the firewall rule or just completely disable it for a while (the UDP port will be used for listening)
 And you will also need to set up IP forwarding if you are bihind a firewall. 
 
 HERE ARE LINKS TO THE OTHER COMPONENTS:
