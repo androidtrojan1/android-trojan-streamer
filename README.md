@@ -22,7 +22,7 @@ HERE ARE LINKS TO THE OTHER COMPONENTS:
 
 trojan service apk: https://github.com/androidtrojan1/android-trojan-service-
 
-mic streamer pc client: https://github.com/androidtrojan1/android-trojan-streamer
+trojan starter apk : https://github.com/androidtrojan1/android-trojan-starter-
 
 trojan php server part: https://github.com/androidtrojan1/android-trojan-php-server
 
